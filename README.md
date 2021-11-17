@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Kara</h1>
 <h3 align="center">I'm a front end developer</h3>
 
-- 🌱 I’m currently learning React.Js and everything about frontend
+- 🌱 I’m currently learning everything about frontend
 
 - 📫 How to reach me **yunusemrekara2434@gmail.com**
 
