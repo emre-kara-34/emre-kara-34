@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything about frontend
 
-- 📫 How to reach me **yunusemrekara2434@gmail.com**
+- 📫 How to reach me **emrekara.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
