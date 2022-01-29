@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning everything about frontend
 
+- 💻 My personel website [emrekara.dev](https://emrekara.dev)
+
 - 📫 How to reach me **emrekara.dev@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
