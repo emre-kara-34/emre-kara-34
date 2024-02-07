@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre Kara</h1>
 <h3 align="center">I'm a Frontend Developer</h3>
 
-- 🌱 I’m currently learning everything about frontend
-
 - 💻 My personel website [emrekara.dev](https://emrekara.dev)
 
 - 📫 How to reach me **emrekara.dev@gmail.com**
